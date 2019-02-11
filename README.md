@@ -29,13 +29,13 @@ $ python main.py
 This is for predicting the job apply rate for user visiting Glassdoor and performing a job search. We use several machine learning algorithm to do the predicition.
 In order to represent a cross-section of the most common machine learning techniques we will use following
 approaches for experimentation.
-• Logistic Regression
-• Artificial Neural Network
-• Naïve Bayes
-• Decision Tree
-• Random Forest
-• K-Nearest Neighbor (KNN)
-• Bagging (Decision Tree)
-• Ada Boosting
+* Logistic Regression
+* Artificial Neural Network
+* Naïve Bayes
+* Decision Tree
+* Random Forest
+* K-Nearest Neighbor (KNN)
+* Bagging (Decision Tree)
+* Ada Boosting
 
 The results of the prediction are shown in reports.pdf files.
